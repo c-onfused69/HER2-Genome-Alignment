@@ -25,5 +25,5 @@ The Smith-Waterman algorithm is a local sequence alignment algorithm that is use
 1. Python 3.x
 2. No external dependencies required
 
-##Installation
+## Installation
 To use this repository, simply clone it and run the script using Python.
